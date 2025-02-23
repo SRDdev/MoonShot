@@ -1,0 +1,3 @@
+[submodule "moonshot/tinyHD"]
+	path = moonshot/tinyHD
+	url = git@github.com:feiyanhu/tinyHD.git
