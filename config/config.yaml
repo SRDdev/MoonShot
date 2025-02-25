@@ -1,0 +1,4 @@
+config:
+  weight_path: 'tinyHD/weights/ucf_d123s.pth'
+  video_path: 'C:\Users\ASUS\Desktop\Shreyas\AIISC\MoonShot\data\gen2_1.mp4'
+  save_path: '../output/'
